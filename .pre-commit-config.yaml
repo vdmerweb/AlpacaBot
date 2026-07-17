@@ -1,0 +1,19 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.5.0
+    hooks:
+      - id: check-added-large-files
+
+  - repo: local
+    hooks:
+      - id: check-env-ignored
+        name: Ensure .env is ignored by git
+        entry: python scripts/check_env_ignored.py
+        language: python
+        stages: [push]
+      - id: run-pytest
+        name: Run pytest before pushing
+        entry: pytest -q
+        language: system
+        pass_filenames: false
+        stages: [push]
