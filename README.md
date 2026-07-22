@@ -17,6 +17,9 @@ A small Alpaca paper trading example project.
 - `examples/safe_trade.py` — example dry-run limit buy.
 - `tests/test_trades.py` — pytest tests for trading helpers.
 - `PROJECT_STATUS.md` — current project status and safety notes.
+- `docs/architecture/README.md` — architecture document index.
+- `docs/architecture/EXECUTIVE_ARCHITECTURE_SUMMARY_v1.md` — north-star architecture summary.
+- `docs/architecture/PHASE_2_ARCHITECTURE_BASELINE_v1.md` — Architecture Baseline v1.0 roadmap.
 - `.github/workflows/ci.yml` — CI workflow for GitHub Actions.
 - `.pre-commit-config.yaml` — local hooks for pre-push checks.
 
