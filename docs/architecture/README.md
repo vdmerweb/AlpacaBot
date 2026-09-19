@@ -8,6 +8,7 @@ This folder contains the architecture baseline, governance records, and the cano
 - `PHASE_2_ARCHITECTURE_BASELINE_v1.md` — Phase 2 architecture roadmap and approved baseline for Architecture Baseline v1.0.
 - `DOMAIN_MODEL.md` — The canonical domain model that defines the platform vocabulary and core concepts.
 - `ARCHITECTURE_ONBOARDING_SUMMARY_v1.md` — Onboarding document for a new Chief Architect.
+- `../AI_ARCHITECTURE_ENGINEERING_CADENCE.md` — Operating cadence for the Chief Architect and Implementation Engineer.
 - `docs/architecture/reviews/ARCH-REVIEW-004_Project_Status.md` — Project status review and architecture maturity assessment.
 
 ## Record Folders
