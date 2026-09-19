@@ -1,6 +1,6 @@
 # WP-003 – Broker Capability Model
 
-**Status:** READY FOR CHIEF ARCHITECT REVIEW — WP-003  
+**Status:** ON HOLD — pending WP-002 Domain Model review and approval
 **Owner:** Implementation Engineer  
 **Started:** 2026-08-28
 
@@ -63,6 +63,6 @@ The WP-003 identity correction is documentation and traceability clarification o
 
 ## Status to Return
 
-**READY FOR CHIEF ARCHITECT REVIEW — WP-003**
+**ON HOLD — WP-003 is not rejected; substantive architectural review is deferred until WP-002 receives explicit Chief Architect approval.**
 
-No approval is inferred from silence. The model remains subject to explicit Chief Architect approval before the next Phase 2 workstream begins.
+No approval is inferred from silence. The Broker Capability Model must not be modified during this hold unless explicitly authorized. WP-004 remains blocked.

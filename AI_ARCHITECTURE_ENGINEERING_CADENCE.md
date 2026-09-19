@@ -90,7 +90,7 @@ Formal sign-off
 Team and tooling reassessment
 ```
 
-The current controlled Phase 2 workstream is WP-003 Broker Capability Model. The next workstream must not begin until WP-003 receives explicit Chief Architect approval.
+The current controlled Phase 2 review gate is WP-002 Domain Model review. WP-003 Broker Capability Model is on hold, not rejected, pending explicit Chief Architect approval of WP-002. The next workstream must not begin until the applicable approval gates are explicit.
 
 ## Repository Structure
 
@@ -105,13 +105,13 @@ Existing architecture records remain in their established folders under `docs/ar
 
 ## Current Gate
 
-**Status:** Cadence established; WP-003 Broker Capability Model is ready for Chief Architect review.
+**Status:** Cadence established; WP-002 Domain Model review is the active gate. WP-003 Broker Capability Model is on hold, not rejected.
 
-**Historical traceability note:** Historical records referencing WP-002 remain preserved for traceability. The current authoritative sequence is WP-002 (Domain Model), WP-003 (Broker Capability Model), and WP-004 (IBroker Specification). The active gate is WP-003 Broker Capability Model review.
+**Historical traceability note:** Historical records referencing WP-002 remain preserved for traceability. The current authoritative sequence is WP-002 (Domain Model), WP-003 (Broker Capability Model), and WP-004 (IBroker Specification). The active gate is WP-002 Domain Model review; WP-003 is on hold pending resolution.
 
 **Blocked until approved:** Starting WP-004 IBroker Specification.
 
-**Permitted preparation:** Review of WP-003, responses to Chief Architect questions, and revisions within WP-003. No WP-004 architecture design should begin under this gate.
+**Permitted preparation:** Preparation and review of the WP-002 Domain Model review package, responses to Chief Architect questions, and revisions explicitly authorized within WP-002. No WP-003 substantive revision or WP-004 architecture design should begin under this gate.
 
 ## Review Outcomes
 

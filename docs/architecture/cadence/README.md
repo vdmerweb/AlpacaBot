@@ -13,4 +13,4 @@ This area stores the operational records that keep the Chief Architect and Imple
 
 - `AI_ARCHITECTURE_ENGINEERING_CADENCE.md` — repository root operating rules and current gate
 
-The cadence is established. WP-003 Broker Capability Model is the current controlled work package and remains review-gated. WP-004 IBroker Specification must not begin until WP-003 receives explicit Chief Architect approval.
+The cadence is established. WP-002 Domain Model review is the current controlled gate. WP-003 Broker Capability Model is on hold, not rejected, pending explicit Chief Architect approval of WP-002. WP-004 IBroker Specification remains blocked.
